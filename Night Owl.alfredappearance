@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#D6DEEBFF",
+        "font" : "System",
+        "color" : "#D6DEEB98"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#82AAFFFF"
+      },
+      "backgroundSelected" : "#010F1DE4",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#ADDB67FF",
+        "font" : "System",
+        "color" : "#7FDBCAE5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#0B284100",
+      "spacing" : 8,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#C792EAFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#011627FF",
+      "paddingHorizontal" : 9,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#01162700",
+      "blur" : 40,
+      "roundness" : 3,
+      "paddingVertical" : 8
+    },
+    "credit" : "jbharat",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#084D81FF",
+      "thickness" : 2
+    },
+    "name" : "Night Owl"
+  }
+}
